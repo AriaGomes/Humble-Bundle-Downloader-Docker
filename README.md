@@ -1,4 +1,4 @@
-# Humble-Bundle-Downloader
+# Humble-Bundle-Downloader - WIP
 Download your Humble Bundle Library and Trove automatically in a docker container
 
 # Dependencies
